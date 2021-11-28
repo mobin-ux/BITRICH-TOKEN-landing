@@ -3,12 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: Rubik, sans-serif;
 }
+
 html {
   font-size: 67.5%;
 }
+
 /* ***************  Home Page Css Start  ****************** */
 
 /* <!-- bsc_network_top BSC NETWORK CHOOSE FROM SECTION OF TOP (FIRST SECTION) --> */
@@ -16,6 +19,7 @@ html {
   background-color: #f59e0b;
   padding: 1rem 0rem;
 }
+
 .bsc_network_top p {
   color: rgba(0, 0, 0, var(--tw-text-opacity));
   text-align: center;
@@ -25,35 +29,42 @@ html {
 
 /* <!-- home_navbar_s HOME NAVBAR SECTION AFTER FIRST SECTION OF HOME TOP --> */
 .homebg {
-  background-image: url(https://codebridge.app/bitpad/pagedesign/assets/images/smoke.jpg);
+  /* background-image: url(https://codebridge.app/bitpad/pagedesign/assets/images/smoke.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   /* background-color: #00ba4f; */
 
   /* background-color: #0e0d18; */
   /* background: rgba(0, 0, 0, 0.88); */
 }
+
 .home_navbar_s {
   color: white !important;
 }
+
 .home_navbar_s a img {
   width: 6rem;
 }
+
 #navbarSupportedContent ul {
   margin-left: auto !important;
   font-size: 1.8rem;
 }
+
 #navbarSupportedContent ul li {
   margin-left: 2vw;
 }
+
 #navbarSupportedContent ul li a {
   color: white;
   font-size: 1.6rem;
 }
+
 .trustpad_txt {
   margin: 2rem 0rem 0rem 2rem;
   color: white;
 }
+
 .trustpad_txt h4 {
   text-transform: uppercase;
   font-size: 2rem;
@@ -75,13 +86,16 @@ html {
   color: #fff;
   text-decoration: none;
 }
+
 .buy_TPAD img {
   width: 2rem !important;
 }
+
 .buy_TPAD button {
   color: white;
   padding: 0 1vw;
 }
+
 /* .buy_TPAD:hover {
   border: 2px solid #9d51ff;
   background-color: #5617cf;
@@ -89,9 +103,11 @@ html {
 .buy_TPAD button:hover {
   color: white;
 }
+
 .connect_wallet_btn {
   padding: 6px 19px !important;
 }
+
 .connect_wallet_dropdown {
   list-style: none;
   background-color: #1a192e;
@@ -100,6 +116,7 @@ html {
   border-radius: 0.25rem;
   box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 18%);
 }
+
 .connect_wallet_dropdown li {
   margin-left: 0rem !important;
   width: 100%;
@@ -108,6 +125,7 @@ html {
 .connect_wallet_dropdown li a:hover {
   background-color: #1a192e;
 }
+
 .navbar-light .navbar-toggler {
   background-color: #00ba4f;
 }
@@ -123,6 +141,7 @@ html {
 
   /* background-color: rgba(22, 20, 46, var(--tw-bg-opacity)) !important; */
 }
+
 .thereal_m_defender {
   background-color: #15132b !important;
 
@@ -131,31 +150,37 @@ html {
   border-radius: 1rem;
   padding-bottom: 1rem;
 }
+
 .sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 1rem;
 }
+
 .the_real_m_col_o .col-lg-3 img {
   width: 7rem;
   border-radius: 100px;
   margin: 3rem 0rem 0rem 1.5rem;
   border: 3px solid #6825e7;
 }
+
 .the_real_m_col_o .col-lg-7 {
   margin: 2rem 0rem 0rem 2rem;
 }
+
 .the_real_m_col_o .col-lg-7 h1 {
   font-family: Rubik, sans-serif;
   color: white;
   text-transform: uppercase;
 }
+
 .the_real_m_col_o .col-lg-7 p {
   opacity: 0.8;
   color: white;
   font-size: 1.6rem;
   /* color: rgba(163, 163, 163, var(--tw-text-opacity)) !important; */
 }
+
 .the_real_m_col_o .col-lg-7 .register_btn {
   background-color: #6c757d;
   font-size: 1.2rem;
@@ -163,6 +188,7 @@ html {
   text-transform: capitalize;
   padding: 0.3rem 1rem;
 }
+
 .the_real_m_col_o .col-lg-7 .levels_btn {
   background-color: #28a745;
   opacity: 0.8;
@@ -170,12 +196,14 @@ html {
   margin-left: 1rem;
   padding: 0.3rem 1rem;
 }
+
 .the_real_m_col_o .card {
   color: white;
   border-radius: 1rem;
   background-color: rgba(115, 115, 115, 0.1);
   margin: 3rem 0rem;
 }
+
 .the_real_m_col_o li {
   list-style-type: none;
   /* padding: 2rem 7rem; */
@@ -186,10 +214,12 @@ html {
   padding: 1rem 0rem;
   margin: 0rem 7rem 2rem 7rem;
 }
+
 .regist_closed P {
   font-size: 2rem !important;
   margin-top: 1rem;
 }
+
 .the_real_m_col_o .connect_wallet_btnn:hover {
   color: white;
 }
@@ -206,6 +236,7 @@ html {
   padding: 1rem 2rem;
   font-weight: 400;
 }
+
 .connect_wallet_dropdown {
   list-style: none;
   background-color: #1a192e;
@@ -218,18 +249,23 @@ html {
   padding: 1rem 2rem;
   font-weight: 400;
 }
+
 .connect_wallet_dropdownn li {
   padding: 0rem;
 }
+
 .connect_wallet_dropdown li {
   padding: 0rem;
 }
+
 .connect_wallet_dropdownn li a:hover {
   background-color: #1a192e !important;
 }
+
 .connect_wallet_dropdown li a:hover {
   background-color: #1a192e !important;
 }
+
 .Install_MetaMask_btn {
   width: 100%;
   color: #212529;
@@ -241,18 +277,22 @@ html {
   font-weight: 400;
   width: 17rem;
 }
+
 .Install_MetaMask_btn img {
   margin-right: 1rem;
   width: 3rem !important;
 }
+
 .WalletConnect_btn img {
   margin-right: 1rem;
   width: 3rem !important;
 }
+
 .TrustWallet_btn img {
   margin-right: 1rem;
   width: 3rem !important;
 }
+
 .WalletConnect_btn {
   font-weight: 400;
   width: 100%;
@@ -264,9 +304,11 @@ html {
   height: 4.2rem;
   width: 17rem;
 }
+
 .WalletConnect_btn:hover {
   color: #fff;
 }
+
 .TrustWallet_btn {
   font-weight: 400;
   width: 100%;
@@ -278,6 +320,7 @@ html {
   box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
   width: 17rem;
 }
+
 .TrustWallet_btn:hover {
   color: #fff;
 }
@@ -288,33 +331,40 @@ html {
   text-decoration: none;
   font-size: 1.8rem;
 }
+
 .one_busd_text {
   margin-top: 8rem;
   line-height: 1rem;
 }
+
 .one_busd_text p {
   color: #00ba4f;
   font-size: 2.4rem;
   text-transform: uppercase;
 }
+
 .one_busd_text span {
   color: #00ba4f;
   font-size: 1.8rem;
   text-transform: uppercase;
   margin-left: 0.4rem;
 }
+
 .open_twentyfour {
   margin: 2.5rem 0rem 0rem 0rem;
 }
+
 .open_twentyfour p {
   color: white;
   font-size: 1.6rem;
   font-weight: 500;
 }
+
 .open_twentyfour span {
   float: right;
   color: #00ba4f;
 }
+
 .open_twentyfour_styling {
   width: 100%;
   border-radius: 100px;
@@ -327,50 +377,63 @@ html {
   text-transform: uppercase;
   color: rgba(163, 163, 163);
 }
+
 .open_twentyfour_0bsd span {
   float: right;
 }
+
 .open_twentyfour_icon_p p {
   font-size: 1.2rem;
 }
+
 .open_twentyfour_icon_p svg {
   margin-right: 1rem;
 }
+
 .thereal_m_defender_img .thereal_m_defender_imgm {
   width: 5rem;
   border-radius: 100%;
   margin: 2rem 0rem 0rem 0rem;
 }
+
 .thereal_m_defender_img h2 {
   margin: 3rem 0rem 0rem 1.5rem;
   font-size: 2.4rem;
 }
+
 .thereal_m_defender_img {
   color: white;
 }
+
 .thereal_m_defender_img span {
   margin-left: auto;
 }
+
 .thereal_m_defender_img span img {
   width: 10rem;
   margin: 2rem;
 }
+
 .thereal_m_defender_par p {
   color: white;
   font-size: 1.6rem;
   opacity: 0.8;
 }
+
 .thereal_m_defender_par {
   margin-top: 1rem;
 }
+
 .thereal_m_defender_par a svg {
   color: #00ba4f;
   font-size: 2.6rem;
   margin: 1rem 2rem 3rem 1rem;
 }
+
 .thereal_m_defender_par a svg:hover {
   color: #00ba4f;
 }
+
 .thereal_m_defender_grid h2 {
   /* color: #fb71ae; */
   color: #00ba4f;
@@ -378,6 +441,7 @@ html {
   text-transform: uppercase;
   font-size: 2.4rem;
 }
+
 .thereal_m_defender_grid .col-lg-6 h3 {
   font-weight: bold;
   text-transform: capitalize;
@@ -394,6 +458,7 @@ html {
   text-transform: capitalize;
   line-height: 2.6rem;
 }
+
 .thereal_m_defender_grid .col-lg-6 h3 span {
   font-weight: normal !important;
   margin-left: 1rem;
@@ -408,17 +473,20 @@ html {
   font-weight: normal !important;
   margin-left: 1rem;
 }
-.thereal_m_defender_grid .col-lg-6 h3 span p {
-}
+
+.thereal_m_defender_grid .col-lg-6 h3 span p {}
+
 .thereal_m_defender_grid_color {
   color: #00ba4f;
   text-transform: uppercase;
 }
+
 .thereal_m_defender_grid_colorr {
   color: white;
   text-transform: uppercase;
   margin: 0rem 1rem;
 }
+
 .home_table thead tr th {
   font-size: 1.4vw;
 }
@@ -435,11 +503,13 @@ html {
   background-color: #15132b !important;
   padding-bottom: 4rem;
 }
+
 .home_footer_m .text-center h1 {
   color: white;
   padding: 4rem 0rem 2rem 0rem;
   font-size: 3vw;
 }
+
 .home_footer_m .text-center button {
   box-shadow: 0 0 24px 0 rgb(133 60 210 / 50%);
   background: linear-gradient(90deg, #25e7d0, #5893b8);
@@ -451,77 +521,94 @@ html {
   padding: 1.5rem;
   margin-bottom: 10rem;
 }
+
 .home_footer_img {
   display: flex;
   justify-content: end;
   width: 100%;
 }
+
 .home_footer_img img {
   width: 15rem;
 }
+
 .home_footer_m .col-lg-4 .navbar-brand img {
   width: 7rem;
 }
-.home_footer_m .row {
-}
+
+.home_footer_m .row {}
+
 .home_footer_m .col-lg-8 .d-flex svg {
   width: 8rem;
   height: 3rem;
   color: #00ba4f;
 }
+
 .home_footer_m .col-lg-8 .d-flex {
   margin: 3rem 0rem 0rem 0rem;
 }
+
 .home_footer_m .col-lg-8 .d-flex h3 {
   color: white;
   font-size: 2rem;
   opacity: 0.8;
 }
+
 .home_footer_m .col-lg-8 .d-flex svg:hover {
   color: #00ba4f;
 }
+
 .home_footer_imgm img {
   width: 18rem;
 }
+
 .home_footer_imgm {
   display: flex;
   justify-content: end;
   width: 100%;
 }
+
 .footer_body_txt p {
   color: white;
   font-size: 1.2rem;
   opacity: 0.7;
 }
+
 .footer_body_txt {
   margin: 5rem 0rem;
 }
+
 .footer_body_txt .d-flex {
   justify-content: end;
 }
+
 .footer_body_txt .d-flex a {
   color: #00ba4f;
 
   font-size: 1.6rem;
   margin-left: 2.2rem;
 }
+
 .footer_btn_bottom_fixed {
   position: fixed;
   bottom: 30px;
   right: 30px;
   opacity: 0.8;
 }
+
 .footer_btn_bottom_fixed button {
   width: 50px;
   height: 50px;
   border-radius: 100px;
   background-color: rgba(64, 64, 64);
 }
+
 .footer_btn_bottom_fixed button svg {
   width: 2rem;
   height: 2rem;
   color: white;
 }
+
 /* ***************  Home Page Css End  ****************** */
 
 /* .homebg {
@@ -535,7 +622,7 @@ html {
 
 /* MEDIA QUERRY HOME PAGE START */
 
-.customINput{
+.customINput {
   border-radius: 5px;
   border: none;
   padding: 6px 10px;
@@ -545,10 +632,12 @@ html {
   .bsc_network_top {
     /* width: 163%; */
   }
+
   .homebg {
     overflow-x: hidden;
     /* width: 163%; */
   }
+
   .home_footer_m .col-lg-8 .d-flex svg {
     width: 3.5rem;
     height: 2rem;
@@ -557,37 +646,46 @@ html {
   .home_footer_m .col-lg-8 .d-flex h3 {
     font-size: 1.6rem;
   }
+
   .home_navbar_s a img {
     width: 4rem;
     /* height: 5rem; */
     /* margin-top: 1rem; */
   }
+
   .trustpad_txt {
     margin: 2rem 0rem 0rem 1rem;
   }
+
   .trustpad_txt h4 {
     font-size: 1.6rem;
   }
+
   .trustpad_txt p {
     font-size: 1.2rem;
   }
+
   .the_real_m_col_o .connect_wallet_btnn {
     margin: 0rem 2rem 2rem 2rem;
   }
 }
+
 @media screen and (min-width: 992px) and (max-width: 1199.98px) {
   #navbarSupportedContent ul li {
     margin-left: 1.3vw;
   }
+
   .the_real_m_col_o .connect_wallet_btnn {
     margin: 0rem 2rem 2rem 2rem;
   }
 }
+
 @media screen and (max-width: 991.98px) {
-  .customINput{
-     margin: 0rem 7rem 2rem 7rem;
-     width: -webkit-fill-available;
-}
+  .customINput {
+    margin: 0rem 7rem 2rem 7rem;
+    width: -webkit-fill-available;
+  }
+
   .connect_wallet_btn {
     margin-top: 1.4rem;
   }
