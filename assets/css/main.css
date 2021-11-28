@@ -221,6 +221,10 @@ html {
   margin-top: 1rem;
 }
 
+.font-p {
+  font-size: 14px;
+}
+
 .the_real_m_col_o .connect_wallet_btnn:hover {
   color: white;
 }
