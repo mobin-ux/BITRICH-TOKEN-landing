@@ -32,7 +32,7 @@ html {
   /* background-image: url(https://codebridge.app/bitpad/pagedesign/assets/images/smoke.jpg);
   background-repeat: no-repeat;
   background-size: cover; */
-  /* background-color: #00ba4f; */
+  background-color: #1c1b30;
 
   /* background-color: #0e0d18; */
   /* background: rgba(0, 0, 0, 0.88); */
@@ -40,6 +40,7 @@ html {
 
 .home_navbar_s {
   color: white !important;
+  background-color: #333245;
 }
 
 .home_navbar_s a img {
@@ -133,21 +134,21 @@ html {
 /* <!-- THE REALM DEFENDERS (AFTER NAVBAR FIRST SECTION START) --> */
 
 .the_real_m_col_o {
-  background-color: #15132b !important;
+  background-color: #333245 !important;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
-  border-radius: 1rem;
+  border-radius: 1.6rem;
   padding-bottom: 1rem;
 
   /* background-color: rgba(22, 20, 46, var(--tw-bg-opacity)) !important; */
 }
 
 .thereal_m_defender {
-  background-color: #15132b !important;
+  background-color: #333245 !important;
 
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
-  border-radius: 1rem;
+  border-radius: 1.6rem;
   padding-bottom: 1rem;
 }
 
@@ -500,7 +501,7 @@ html {
   border-radius: 1rem;
   /* background-color: rgba(115, 115, 115, 0.1); */
   margin: 4rem 0rem 0rem 0rem;
-  background-color: #15132b !important;
+  background-color: #1c1b30 !important;
   padding-bottom: 4rem;
 }
 
