@@ -333,7 +333,7 @@ html {
 }
 
 .howto_participate a {
-  color: rgba(115, 115, 115, 1);
+  color: #6f6e90;
   border-bottom: 1px dashed;
   text-decoration: none;
   font-size: 1.8rem;
@@ -345,13 +345,13 @@ html {
 }
 
 .one_busd_text p {
-  color: #00ba4f;
-  font-size: 2.4rem;
+  color: #6f6e90;
+  font-size: 1.8rem;
   text-transform: uppercase;
 }
 
 .one_busd_text span {
-  color: #00ba4f;
+  color: #6f6e90;
   font-size: 1.8rem;
   text-transform: uppercase;
   margin-left: 0.4rem;
@@ -373,7 +373,7 @@ html {
 }
 
 .open_twentyfour_styling {
-  width: 100%;
+  width: 96%;
   border-radius: 100px;
   color: rgba(82, 82, 82, 1);
   background-color: rgba(82, 82, 82, 1);
