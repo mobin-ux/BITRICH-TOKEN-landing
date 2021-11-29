@@ -656,8 +656,8 @@ html {
 
   .home_navbar_s a img {
     width: 4rem;
-    /* height: 5rem; */
-    /* margin-top: 1rem; */
+    height: 5rem;
+    margin-top: 1rem;
   }
 
   .trustpad_txt {
